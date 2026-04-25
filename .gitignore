@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+x64/
+Debug/
+Release/
+
+# openFrameworks compiled libs (huge, not needed)
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# configuration files
+.clang-format
+.editorconfig
