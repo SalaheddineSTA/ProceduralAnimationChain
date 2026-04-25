@@ -2,7 +2,8 @@
 
 > An interactive inverse kinematics chain that follows your mouse, built with openFrameworks
 
-![demo](images/demo.gif)
+<img width="1686" height="1164" alt="chain" src="https://github.com/user-attachments/assets/67e1f58e-ec67-465c-9238-29681db39746" />
+
 
 ---
 
